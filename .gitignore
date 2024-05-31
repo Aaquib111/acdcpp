@@ -13,3 +13,4 @@ ims/*
 .python-version
 greaterthan_task/ims/*
 .vscode
+*.egg-info/
